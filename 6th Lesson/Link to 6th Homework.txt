@@ -1,0 +1,1 @@
+https://qacourseshpp.atlassian.net/jira/software/projects/QAC/boards/2?selectedIssue=QAC-7
